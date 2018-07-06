@@ -1,2 +1,2 @@
-setwd("/Users/Zhaoqibewater/personal_web")
+setwd("/Users/Zhaoqibewater/personal_site")
 rmarkdown::render_site()
