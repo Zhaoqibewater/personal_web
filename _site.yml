@@ -1,1 +1,9 @@
-
+name: "Zhaoqi-website"
+output_dir: "."
+navbar:
+  title: "Zhaoqi Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
