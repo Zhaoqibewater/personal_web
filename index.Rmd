@@ -1,6 +1,6 @@
 ---
-title: "Teaching"
+title: "My home page"
 ---
 
-Hello, My students!
+Hello, My home page.
 
