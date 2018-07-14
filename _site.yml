@@ -1,11 +1,11 @@
 name: "Zhaoqi-website"
 navbar: 
-  title: "Zhaoqi Website"
+  title: "Home"
   left:
-    - text: "Home"
-      href: index.html
     - text: "About Me"
       href: about.html
     - text: "Research"
       href: Research.html
+    - text: "Teaching"
+      href: index.html
 output_dir: "."
