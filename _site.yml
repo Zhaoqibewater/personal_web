@@ -7,3 +7,10 @@ navbar:
       href: index.html
     - text: "About Me"
       href: about.html
+output_dir: "."
+output:
+   html_document:
+   theme: yeti
+   highlight: textmate
+#    include
+#   after_body: _footer.html
