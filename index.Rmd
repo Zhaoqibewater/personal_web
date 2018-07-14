@@ -4,4 +4,4 @@ title: "Welcome"
 
 I am a second year Ph.D. student in the Economics department at University of California, Santa Cruz.
 
-![](logo.png)
+<img src="images/logo.png" width="350px">
