@@ -1,5 +1,6 @@
 name: "Zhaoqi-website"
-navbar:
+output_dir: "."
+navbar: 
   title: "Zhaoqi Website"
   left:
     - text: "Home"
