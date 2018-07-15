@@ -1,6 +1,6 @@
 name: "Zhaoqi-website"
 navbar: 
-  title: "Home"
+  title: "Zhaoqi Wang"
   left:
     - text: "About Me"
       href: about.html
@@ -9,3 +9,7 @@ navbar:
     - text: "Teaching"
       href: Teaching.html
 output_dir: "."
+output:
+  html_document:
+    theme: flatly
+    highlight: textmate
