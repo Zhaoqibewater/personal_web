@@ -1,5 +1,5 @@
 ---
-title: "Teaching"
+title: "UCSC Life"
 ---
 
 ```{r setup, include=FALSE}

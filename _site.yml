@@ -6,8 +6,8 @@ navbar:
       href: about.html
     - text: "Research"
       href: Research.html
-    - text: "Teaching"
-      href: Teaching.html
+    - text: "UCSC Life"
+      href: UCSC Life.html
 output_dir: "."
 output:
   html_document:
