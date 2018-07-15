@@ -9,7 +9,7 @@ output:
 ##Fall 2017
 
 ###Econ 1 (Introduction to Micro)
-[Syllabus.Fall17.pdf](https://docs.google.com/viewer?url=https://github.com/Zhaoqibewater/personal_web/tree/master/files/Syllabus.Fall17.pdf)
+[Syllabus.Fall17.pdf](https://drive.google.com/file/d/1Nh27zgnOqJqXOKTiK-Lb9uUisvLGEVrg/view)
 
 ##Summer 2018
 
