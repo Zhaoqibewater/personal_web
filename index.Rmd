@@ -11,7 +11,7 @@ title: "Welcome"
 </style>
 
 <div class="col2">
-I am a second year Ph.D. student in the Economics department at University of California, Santa Cruz.
+I am a second year Ph.D. student in Economics department at the University of California, Santa Cruz.
 
 ##**Contact**
 

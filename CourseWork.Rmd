@@ -1,0 +1,30 @@
+---
+title: "CourseWork"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+##Fall 2017
+
+###Econ 204A (Advanced Micro Theory I)
+
+###Econ 211C (Advanced Econometrics I)
+
+##Winter 2018
+
+###Econ 204B (Advanced Micro Theory II)
+
+###Econ 205B (Advanced Macro Theory II)
+
+###Econ 211B (Advanced Econometrics II)
+
+###AMS 206A (Applied Bayesian Statistics)
+
+##Spring 2018
+###Econ 204C (Advanced Micro Theory III)
+
+###Econ 205C (Advanced Macro Theory III)
+
+###Econ 211C (Advanced Econometrics III)

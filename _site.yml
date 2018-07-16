@@ -8,6 +8,8 @@ navbar:
       href: Research.html
     - text: "Teaching"
       href: Teaching.html
+    - text: "CourseWork"
+      href: CourseWork.html
 output_dir: "."
 output:
   html_document:
