@@ -23,6 +23,7 @@ output:
 ###AMS 206A (Applied Bayesian Statistics)
 
 ##Spring 2018
+
 ###Econ 204C (Advanced Micro Theory III)
 
 ###Econ 205C (Advanced Macro Theory III)

@@ -1,5 +1,5 @@
 ---
-title: "Teaching"
+title: ""
 output:
   html_document:
     toc: true
@@ -10,6 +10,8 @@ output:
 
 ###Econ 1 (Introduction to Micro)
 [Syllabus.Fall17.pdf](https://drive.google.com/file/d/1Nh27zgnOqJqXOKTiK-Lb9uUisvLGEVrg/view)
+
+[Production Function and Firm Cost](https://drive.google.com/file/d/1_OP7Qe35JLW2c-VE9zIVgLkW9z_nXsRX/view)
 
 ##Summer 2018
 
